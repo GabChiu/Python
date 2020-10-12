@@ -1,0 +1,16 @@
+Loan ID,Age,Has_Job,Own_home,Credit_Rating,Paid_back
+1,young,1,1,good,1
+2,young,0,0,fair,0
+3,middle,0,1,excellent,1
+4,middle,0,0,good,0
+5,middle,1,1,good,1
+6,young,0,0,fair,0
+7,middle,0,0,fair,0
+8,old,1,0,excellent,1
+9,old,0,0,fair,0
+10,young,0,0,good,0
+11,old,0,1,excellent,1
+12,middle,0,1,excellent,1
+13,old,0,1,good,1
+14,old,1,0,good,1
+15,young,1,1,fair,1
